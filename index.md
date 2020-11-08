@@ -1,4 +1,4 @@
-![プロフィール写真](me.jpeg)
+<img src="me.jpeg" width=50%>
 
 # About
 正体不明の大学生駆け出しプログラマーです。
