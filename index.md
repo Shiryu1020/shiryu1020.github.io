@@ -1,4 +1,4 @@
-![プロフィール写真](me.)
+![プロフィール写真](me.png)
 
 <iframe src="https://www.openprocessing.org/sketch/1010349/embed/" width="400" height="300"></iframe>
 
