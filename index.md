@@ -15,7 +15,7 @@
 - Git
 
 # Works
-- [GitHub](https://github.com/Shiryu1020/shiryu1020.github.io)
+- [GitHub](https://github.com/Shiryu1020)
 - 作った作品
 　- なし
 
