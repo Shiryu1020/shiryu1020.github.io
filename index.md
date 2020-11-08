@@ -7,3 +7,17 @@
 - Shiryu
 - 埼玉県
 - web開発
+
+# Skills
+- MacOS,Ubuntu
+- HTML, CSS, JavaScript
+- Node.js
+- Git
+
+# Works
+- [GitHub](https://github.com/Shiryu1020/shiryu1020.github.io)
+- 作った作品
+　- なし
+
+# History
+- 2020年 [株式会社ドワンゴ](https://dwango.co.jp) 入社
